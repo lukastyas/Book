@@ -11,16 +11,16 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context=".welcome">
 
-    <androidx.appcompat.widget.Toolbar
-        android:id="@+id/toolbar_welcome"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:background="?attr/colorPrimary"
-        android:minHeight="?attr/actionBarSize"
-        android:theme="?attr/actionBarTheme"
-        app:subtitle="@string/activity_welcome"
-        app:subtitleTextAppearance="@style/TextAppearance.AppCompat.Large"
-        app:subtitleTextColor="@android:color/white" />
+    <!--<androidx.appcompat.widget.Toolbar-->
+        <!--android:id="@+id/toolbar_welcome"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:background="?attr/colorPrimary"-->
+        <!--android:minHeight="?attr/actionBarSize"-->
+        <!--android:theme="?attr/actionBarTheme"-->
+        <!--app:subtitle="@string/activity_welcome"-->
+        <!--app:subtitleTextAppearance="@style/TextAppearance.AppCompat.Large"-->
+        <!--app:subtitleTextColor="@android:color/white" />-->
 
     <TextView
         android:id="@+id/textView2"
